@@ -1,0 +1,6 @@
+a.out
+*.o
+*.exe
+.vscode/
+encoded.bmp
+decoded.txt
