@@ -66,7 +66,7 @@ gcc *.c -o steganography
 ### Decode
 
 ```bash
-./steganography -d output.bmp
+./steganography -d decoded.bmp
 ```
 
 ---
